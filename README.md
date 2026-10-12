@@ -13,7 +13,7 @@ java path/to/exNumber.java
 > [!NOTE]
 > Command requires [JDK](https://openjdk.org) 11 or later installed.
 
-If you have [Zed](https://zed.dev), you can also use the provided debug task with the [Java extension](https://zed.dev/extensions/java).
+[Zed](https://zed.dev) users can also use the provided [debug task](.zed/debug.json) with the [Java extension](https://zed.dev/extensions/java).
 
 ## License
 
