@@ -4,6 +4,6 @@
     "adapter": "Java",
     "request": "launch",
     "javaExec": "java",
-    "mainClass": "$ZED_STEM",
+    "mainClass": "$ZED_FILE",
   },
 ]
