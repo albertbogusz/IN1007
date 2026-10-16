@@ -20,7 +20,7 @@
     }
 */
 // Output: `7.0`
-// As integer division is performed between `a` and `b`.
+// As integer division is performed with `a + b` and 2.
 
 void main() {
     IO.println(way1());
